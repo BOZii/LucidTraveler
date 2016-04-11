@@ -173,6 +173,12 @@ aside {
     }
 }
 
+#contact {
+    background-image: url(http://www.cityofderryguitarfestival.com/Portals/CODGuitar/Skins/GuitarFest/images/woodBack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 header {
     font-family: beach;
     opacity: 0.8;
